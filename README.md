@@ -1,2 +1,3 @@
-# windforcecorp.openweb
-GitHub public website for WindForce Corp.
+# WindForce Corp Public Website
+
+This is a demo website to show Azure DevOps integration with Github
